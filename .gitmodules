@@ -1,0 +1,3 @@
+[submodule "Scripts/infi/mpvacious"]
+	path = Scripts/infi/mpvacious
+	url = git@github.com:forsakeninfinity/mpvacious.git
